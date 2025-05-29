@@ -1,4 +1,4 @@
-# JavaScript Advanced - React - Proiectul 2
+# JavaScript - React - Proiectul 3
 
 Magazinul online este cel de-al treilea proiect din cadrul cursului JavaScript. Cursul este continuarea celui de JavaScript Fundamentals. 
 
